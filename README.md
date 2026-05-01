@@ -1,6 +1,6 @@
 # Santosh Shatavaji - Portfolio
 
-🚀 Software Engineer | PHP | CodeIgniter | API Development
+🚀 Software Engineer | Software Developer | Backend | PHP | CodeIgniter | MySQL | REST APIs
 
 ## About Me
 I am a Software Engineer with 5+ years of experience in building scalable web applications and REST APIs.
